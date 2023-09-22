@@ -11,23 +11,11 @@
 
 - 🔭 I’m currently working on private projects for now
 
-- 🌱 I’m currently learning **Python, ML, IA, R and frameworks in Python**
-
-<!-- - 👯 I’m looking to collaborate on [Peoject 1](https://google.com.br) -->
-
-- 👯 I’m looking to collaborate to some Projects in Lightning Network
-
-<!-- - 🤝 I’m looking for help with [Peoject 1](https://google.com.br) -->
-
-- 👨‍💻 All of my projects are available at [https://github.com/Uziel79](https://github.com/Uziel79) for now (my site incoming in some days)
-
-- 📝 I regularly write articles on [https://dev.to/uziel79](https://dev.to/uziel79)
+- 🌱 I’m currently learning **something awesome**
 
 - 💬 Ask me about **React, PHP, Node.JS, MySql, Postgres, React Native**
 
 - 📫 How to reach me **thiagoasvieira@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Uziel79](https://github.com/Uziel79) for now (my site incoming in some days)
 
 - ⚡ Fun fact **I'm aisoft player, cyclist in my spare time.**
 
